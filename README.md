@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @averagecsharpenjoyer
+- 👋 Hi, I’m @hzxdev
 - I’m interested in game development.
 - I'm mainly focused on Unity.
 - I’m currently learning C#.
