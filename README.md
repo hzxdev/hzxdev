@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hzxdev
-- I’m interested in game development.
-- I'm mainly focused on Unity.
+- I’m interested in AI engineering and game development.
 
 <!---
 averagecsharpenjoyer/averagecsharpenjoyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
